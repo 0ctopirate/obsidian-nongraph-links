@@ -1,6 +1,6 @@
 {
-	"id": "nongraph-link-plugin",
-	"name": "Non-Graph Link Plugin",
+	"id": "nongraph-links",
+	"name": "Non-Graph Links",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Add links without modifying the graph.",
