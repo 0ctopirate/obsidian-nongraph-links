@@ -1,0 +1,11 @@
+{
+	"id": "nongraph-link-plugin",
+	"name": "Non-Graph Link Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Add links without modifying the graph.",
+	"author": "8o-COLLECTIVE",
+	"authorUrl": "https://8oc.org",
+	"fundingUrl": "https://8oc.org",
+	"isDesktopOnly": false
+}
